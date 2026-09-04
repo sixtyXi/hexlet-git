@@ -1,2 +1,2 @@
-git is awesome!
+I love Hexlet!
 new line
